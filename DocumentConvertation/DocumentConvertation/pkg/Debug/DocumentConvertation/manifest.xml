@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="225a1c3e-a9ca-4480-ac07-25e3c274a7f1" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="DocumentConvertation.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="DocumentConvertation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c24b91b969abeefa" Namespace="DocumentConvertation.DocumentConvertation" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\DocumentConvertation\DocumentConvertation\DocumentConvertationUserControl.ascx" />
+    <TemplateFile Location="Layouts\DocumentConvertation\Stylesheet1.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="DocumentConvertation_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

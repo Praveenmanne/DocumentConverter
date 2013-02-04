@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="225a1c3e-a9ca-4480-ac07-25e3c274a7f1" solutionId="225a1c3e-a9ca-4480-ac07-25e3c274a7f1" resetWebServer="false" name="DocumentConvertation" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="74003001-26a2-4b4b-88ee-a78cb83f7ee3" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="e5b437c1-a7f8-49b7-96ba-87a1de502bba" />
+  </projectItems>
+</package>

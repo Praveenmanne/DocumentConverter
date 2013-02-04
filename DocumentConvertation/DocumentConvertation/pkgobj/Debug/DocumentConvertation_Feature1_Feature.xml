@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="6109870b-bb04-42b8-9bb5-cb0308a8dfdb" Scope="Site" Title="DocumentConvertation Feature1">
+  <ElementManifests>
+    <ElementManifest Location="DocumentConvertation\Elements.xml" />
+    <ElementFile Location="DocumentConvertation\DocumentConvertation.webpart" />
+  </ElementManifests>
+</Feature>

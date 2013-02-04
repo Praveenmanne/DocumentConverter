@@ -1,0 +1,48 @@
+﻿.Container *
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-size: 12px;
+    outline: none;
+}
+
+.Container .header
+{
+    background: gainsboro;
+    height: 35px;
+}
+.Container .data
+{
+    background: #F0EEEE;
+    color: #555;
+    padding: 5px;
+}
+
+.Container .NoBorder .ms-inputuserfield, input[type='text'], .ms-input
+{
+    border: 2px solid #eee !important;
+    color: #545454 !important;
+    font-size: 12px !important;
+    padding: 4px !important;
+}
+.btnStyle
+{
+ background-image:url('../images/menu-bg.png');
+ padding:5px;
+ border:0;
+    font-family: sans-serif;
+}
+.pickerStyle
+{
+ width:335px;
+}
+.Container .controls TD
+{
+    padding-top: 10px;
+}
+.contentStyle {
+    color: black;
+    font-family: sans-serif;
+    padding-left: 40px;
+}
